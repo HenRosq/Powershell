@@ -1,0 +1,1 @@
+﻿1..5 | foreach { new-item -path H:\$_.txt }
